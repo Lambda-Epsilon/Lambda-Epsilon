@@ -1,41 +1,20 @@
 # Erik
 
-Biochemist with an applied focus in bioinformatics, data infrastructure, and computational biology.
+Biochemist with a focus in bioinformatics, data infrastructure, and scientific computing.
 
 ---
 
-## Core Areas
+**Core Areas**  
+• HPC workflows (Bash, SLURM, Linux)  
+• RNA-seq pipelines, differential expression  
+• Lab automation (SQL, Power BI, LIMS)  
+• R & Python for biological data modeling  
+• Workflow tooling (Snakemake, Git)  
 
-• High-performance computing workflows (Bash, SLURM, Linux)  
-• Sequence analysis, RNA-seq pipelines, and variant detection workflows  
-• Data integration and lab automation (SQL, Power BI, LIMS)  
-• Statistical modeling and visualization in R and Python  
-• Machine learning on biological sequences and protein function prediction  
-• Scientific software tooling and reproducible research environments  
+**Tools**  
+Python · R · Bash · SQL · Biopython · DESeq2 · scikit-learn  
+Snakemake · Nextflow · ggplot2 · MySQL · Power BI · Linux  
 
----
-
-## Tools & Languages
-
-Python · R · Bash · SQL · VBA · HTML/CSS · JavaScript · C  
-Pandas · NumPy · Biopython · scikit-learn · DESeq2 · ggplot2  
-Snakemake · Nextflow · Git · Power BI · MySQL · Linux
-
----
-
-## Bioinformatics Interests
-
-• NGS pipeline development (alignment → quantification → differential expression)  
-• Genomic data modeling, RNA-seq analysis, and variant calling  
-• Microbiome classification and 16S analysis using QIIME2 and Kraken2  
-• Comparative genomics and phylogenetic inference (MSA, motif annotation, tree building)  
-• Supervised learning for protein function prediction and sequence classification  
-• Data retrieval from biological databases (NCBI, Ensembl, UniProt, PDB)  
-• Workflow automation in HPC and cloud environments  
-
----
-
-## Additional Tools Familiarity
-
-BLAST · FASTQC · HISAT2 · Bowtie2 · SAMtools · BCFtools  
-featureCounts · MUSCLE · Clustal Omega · RAxML
+**Interests**  
+NGS processing · Variant analysis · Microbiome (QIIME2)  
+Comparative genomics · Sequence ML · Bio-database APIs
