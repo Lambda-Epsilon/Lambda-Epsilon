@@ -4,17 +4,14 @@ Biochemist with a focus in bioinformatics, data infrastructure, and scientific c
 
 ---
 
-**Core Areas**  
-• HPC workflows (Bash, SLURM, Linux)  
-• RNA-seq pipelines, differential expression  
-• Lab automation (SQL, Power BI, LIMS)  
-• R & Python for biological data modeling  
-• Workflow tooling (Snakemake, Git)  
+**Core Areas:**  
+- **NGS & SELEX Pipelines**: Snakemake · Nextflow · FastQC · Cutadapt · DESeq2  
+- **Enrichment & Motif Analysis**: Python scripting · MEME Suite  
+- **HPC & Automation**: Bash · SLURM · Linux administration · Micromamba · Docker · Singularity  
+- **Data Infrastructure**: Python · R · SQL (MySQL, PostgreSQL) · LIMS integration · REST APIs  
+- **Analytics & Reporting**: R (ggplot2) · scikit‑learn · Excel/VBA/PowerQuery · Power BI   
 
-**Tools**  
-Python · R · Bash · SQL · Biopython · DESeq2 · scikit-learn  
-Snakemake · Nextflow · ggplot2 · MySQL · Power BI · Linux  
+**Toolbox:**  
+Python · R · Bash · SQL (MySQL, PostgreSQL) · JavaScript · HTML · C · Biopython · DESeq2 · scikit‑learn · ggplot2 · FastQC · Cutadapt · MEME Suite · Snakemake · Nextflow · SLURM · Docker · Singularity · Linux · Git · VBA · PowerQuery · Power BI · QIIME2 · REST APIs · LIMS  
 
-**Interests**  
-NGS processing · Variant analysis · Microbiome (QIIME2)  
-Comparative genomics · Sequence ML · Bio-database APIs
+
